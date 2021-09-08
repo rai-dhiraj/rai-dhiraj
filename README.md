@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS, JS, PY
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Through mail: @dreco388@gmail.com
+- 📫 How to reach me? Through mail: @dreco388@gmail.com or raidhiraj41811@gmail.com
 
 <!---
 rai-dhiraj/rai-dhiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
